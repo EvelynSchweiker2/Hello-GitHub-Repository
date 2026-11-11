@@ -1,0 +1,18 @@
+{
+  "name": "infrastructure-decision-tool",
+  "version": "1.0.0",
+  "description": "A simple infrastructure decision support tool.",
+  "main": "infrastructure_tool.js",
+  "scripts": {
+    "start": "node infrastructure_tool.js",
+    "help": "node infrastructure_tool.js --help"
+  },
+  "keywords": [
+    "infrastructure",
+    "decision",
+    "tool",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT"
+}
